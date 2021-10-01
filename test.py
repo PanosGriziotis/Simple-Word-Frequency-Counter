@@ -1,4 +1,4 @@
-from final_project import FrequenciesGenerator as FG
+from frequency_counter import FrequenciesGenerator as FG
 
 test = FG('test_data_Μ901_final_project')
 test.read_folder()
