@@ -1,5 +1,5 @@
 # SIMPLE FREQUENCY COUNTER
-Calculate word occurences in txt files inside a given folder.  
+A simple package to calculate word occurences in txt files inside a given folder.  
 
 ## Installation
 
