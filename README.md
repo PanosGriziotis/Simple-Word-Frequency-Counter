@@ -1,6 +1,12 @@
 # SIMPLE FREQUENCY COUNTER
 Calculate word occurences in txt files inside a given folder.  
 
+## Installation
+
+```bash
+pip install simple-frequency-counter
+```
+
 ## Usage
 ```python
 from  simple_frequency_counter.counter  import  FrequenciesGenerator
